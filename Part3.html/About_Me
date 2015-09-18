@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>This is a few words about my life </title>
+    </head>
+    <body>
+        <h1>The basic things about me</h1>
+            <p>My name is Aidan, <hr/> I drink a lot of h<sub>2</sub>o.  
+            I love music and sports.  I have been homeschooled my whole life.  
+            Other than the co-op classes I have done like icap, this is one of my first classes.
+            I have never really messed with this stuff like html before, I've never really been good with computers, 
+            so maybe starting out college with computer classes wasn't the best idea, but I wouldn't take 
+            anything back.</p>
+            <h2>My career goals</h2>
+            <p>My career goal is to get my degree in computer science. 
+            Working somewheres like <b>Google</b>, <acronym title="National Aeronaustics and Space Administration">NASA</acronym>,
+            <b>Samsung</b> or <s>Apple</s> is only a dream right now, but I am working hard to 
+            make it a reality.  Lately I have been interested in missionary work. I have been thinking about doing a dts
+            <dfn>(discipline training school)</dfn> through <em>YWAM</em>.  I am not for sure want I to do as a career yet.</p>
+            <h2>My family</h2>
+            <p>I am part of a family of four.  My brother, Quinn, has a degree in social sciences and is currently in navy
+            boot camp in Chicago.  I will see him in three in weeks, I can't wait.  My mom, Raquel, was my teacher 
+            for most of my life and now she is going back to school, <i>beauty</i> school.  My dad, Mario, works at Kimberly
+            Clark, he is a very hard worker and is multiy-talented, most importantly, a die hard <u>Laker</u> fan.</p>
+            <h2>My hobbies</h2>
+            <p>Basketball<br /> my favorite teams are Lakers and OKC Thunder.<br /> I also play basketball, I played
+            on a varsity team.  <q>I've failed over and over and over again in my life and that's why I succeed</q>
+            -Michael Jordan is my favorite quote.  I also play four instruments, guitar, bass, piano, and I sing.  
+            I only take lessons for singing currently.  I also love snowboarding, biking, hiking, rock climbing, airsofting,
+            bmxing, paintpalling, shooting guns, and playing videos games.</p>
+    </body>
+</html>
